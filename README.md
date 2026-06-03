@@ -2,7 +2,7 @@
 
 Custom scripts used for analyses in:
 
-**Perez-Calles et al.**  
+**Pérez-Calles et al.**  
 *The Onychomys pangenome reveals the unique molecular adaptations that confer toxin resistance.*
 
 Preprint DOI: https://doi.org/10.1101/2025.10.28.685014
