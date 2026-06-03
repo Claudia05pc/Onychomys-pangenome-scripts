@@ -107,6 +107,6 @@ This file contains:
 
 If using these scripts, please cite:
 
-Perez Callez et al. *The Onychomys pangenome reveals the unique molecular adaptations that confer toxin resistance.*
+Pérez-Calles et al. *The Onychomys pangenome reveals the unique molecular adaptations that confer toxin resistance.*
 
 DOI: https://doi.org/10.1101/2025.10.28.685014
