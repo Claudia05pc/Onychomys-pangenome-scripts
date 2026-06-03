@@ -26,7 +26,7 @@ Identifies candidate highly variable loci by comparing sequence divergence betwe
 #### Requirements
 
 - Python 3
-- bedtools
+- bedtools v2.30.0+
 - Unix command-line tools:
   - `cut`
   - `sort`
